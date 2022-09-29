@@ -1,0 +1,25 @@
+{
+  "name": "nodejscourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazero3/Nodejstutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazero3/Nodejstutorial/issues"
+  },
+  "homepage": "https://github.com/nazero3/Nodejstutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
